@@ -1,1 +1,1 @@
-"# regional-socioeconomic" 
+# regional-socioeconomic
