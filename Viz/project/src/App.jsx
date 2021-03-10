@@ -1,6 +1,4 @@
 import React from 'react';
-import Simple from './Simple';
-import BarChart from './BarChart';
 
 const App = () => {
     return (
