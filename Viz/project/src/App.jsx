@@ -1,10 +1,12 @@
 import React from 'react';
+import DropDownClass from "./components/DropDownClass";
+import { Container } from "semantic-ui-react";
 
 const App = () => {
     return (
-        <h1>
-            Hello
-        </h1>
+        <Container>
+            <DropDownClass />
+        </Container>
     )
 }
 
