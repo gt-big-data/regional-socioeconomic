@@ -5,8 +5,20 @@ import countries from "../dataFiles/countries";
 class DropDownClass extends Component {
     constructor () {
         super();
+<<<<<<< Updated upstream
         this.state = {}
     }  
+=======
+        this.state = {
+            country_chosen: "none"
+        }
+    } 
+    
+    change_country = (e, data) => {
+        this.setState({country_chosen: data.value});
+        console.log(data);
+    }
+>>>>>>> Stashed changes
 
     render() {
         const menuStyle = {
