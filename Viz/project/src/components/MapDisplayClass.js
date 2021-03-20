@@ -9,4 +9,9 @@ class MapDisplayClass extends Component {
             current_display: "ae"
         }
     } 
+
+    render () {
+        return (
+        );
+    }
 }
