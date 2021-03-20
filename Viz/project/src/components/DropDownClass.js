@@ -16,7 +16,6 @@ class DropDownClass extends Component {
         this.setState({country_chosen: data.value});
         console.log(data);
     }
-
     render() {
         const menuStyle = {
             width: "30%",
