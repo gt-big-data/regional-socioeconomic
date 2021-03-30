@@ -24,20 +24,25 @@ BASE_URL = 'https://api.mapbox.com/v4/mapbox.satellite/'
     handling logic, so any faulty request is an internal server error.
 '''
 class FindImage(Resource):
-    def get(self, lat, long, zoom):
+    def get(self, lat, long, zoom, folder_name):
         tile = mercantile.tile(float(long), float(lat), int(zoom))
         url = BASE_URL + zoom + '/' + str(tile.x) + '/' + str(tile.y)
         url += '@2x.pngraw?access_token=' + API_KEY
         req = requests.get(url, stream=True)
 
-        with open('./images/test.png','wb') as f:
+        # Creates a folder with the specified name, if not already there
+        path_name = './images/' + folder_name
+        if not os.path.exists(path_name):
+            os.makedirs(path_name)
+
+        with open(path_name + '/' + lat + ":" + long + '.png','wb') as f:
             req.raw.decode_content = True
             shutil.copyfileobj(req.raw, f)
 
         return [{"result": "Successfully downloaded image"}]
 
-# Example request (Georgia Tech): http://127.0.0.1:5000/image/33.7756/-84.3963/15
-api.add_resource(FindImage, "/image/<lat>/<long>/<zoom>")
+# Example request (Georgia Tech): http://127.0.0.1:5000/image/33.7756/-84.3963/15/test
+api.add_resource(FindImage, "/image/<lat>/<long>/<zoom>/<folder_name>")
 
 def main():
     app.run(debug=True)
