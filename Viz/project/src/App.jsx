@@ -16,7 +16,7 @@ const App = () => {
             </div>
 
             <MainPageClass/>
-            <MapDisplayClass/>
+            
         </Container>
     )
 }
