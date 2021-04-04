@@ -1,0 +1,245 @@
+[
+{'text': 'Afghanistan', 'value': './images/Afghanistan/vector.svg'}
+{'text': 'Aland Islands', 'value': './images/Aland Islands/vector.svg'}
+{'text': 'Albania', 'value': './images/Albania/vector.svg'}
+{'text': 'Algeria', 'value': './images/Algeria/vector.svg'}
+{'text': 'American Samoa', 'value': './images/American Samoa/vector.svg'}
+{'text': 'Andorra', 'value': './images/Andorra/vector.svg'}
+{'text': 'Angola', 'value': './images/Angola/vector.svg'}
+{'text': 'Anguilla', 'value': './images/Anguilla/vector.svg'}
+{'text': 'Antarctica', 'value': './images/Antarctica/vector.svg'}
+{'text': 'Antigua and Barbuda', 'value': './images/Antigua and Barbuda/vector.svg'}
+{'text': 'Argentina', 'value': './images/Argentina/vector.svg'}
+{'text': 'Armenia', 'value': './images/Armenia/vector.svg'}
+{'text': 'Aruba', 'value': './images/Aruba/vector.svg'}
+{'text': 'Australia', 'value': './images/Australia/vector.svg'}
+{'text': 'Austria', 'value': './images/Austria/vector.svg'}
+{'text': 'Azerbaijan', 'value': './images/Azerbaijan/vector.svg'}
+{'text': 'Bahamas', 'value': './images/Bahamas/vector.svg'}
+{'text': 'Bahrain', 'value': './images/Bahrain/vector.svg'}
+{'text': 'Bangladesh', 'value': './images/Bangladesh/vector.svg'}
+{'text': 'Barbados', 'value': './images/Barbados/vector.svg'}
+{'text': 'Belarus', 'value': './images/Belarus/vector.svg'}
+{'text': 'Belgium', 'value': './images/Belgium/vector.svg'}
+{'text': 'Belize', 'value': './images/Belize/vector.svg'}
+{'text': 'Benin', 'value': './images/Benin/vector.svg'}
+{'text': 'Bermuda', 'value': './images/Bermuda/vector.svg'}
+{'text': 'Bhutan', 'value': './images/Bhutan/vector.svg'}
+{'text': 'Bolivia', 'value': './images/Bolivia/vector.svg'}
+{'text': 'Bosnia and Herzegovina', 'value': './images/Bosnia and Herzegovina/vector.svg'}
+{'text': 'Botswana', 'value': './images/Botswana/vector.svg'}
+{'text': 'Bouvet Island', 'value': './images/Bouvet Island/vector.svg'}
+{'text': 'Brazil', 'value': './images/Brazil/vector.svg'}
+{'text': 'British Indian Ocean Territory', 'value': './images/British Indian Ocean Territory/vector.svg'}
+{'text': 'Brunei Darussalam', 'value': './images/Brunei Darussalam/vector.svg'}
+{'text': 'Bulgaria', 'value': './images/Bulgaria/vector.svg'}
+{'text': 'Burkina Faso', 'value': './images/Burkina Faso/vector.svg'}
+{'text': 'Burundi', 'value': './images/Burundi/vector.svg'}
+{'text': 'Cambodia', 'value': './images/Cambodia/vector.svg'}
+{'text': 'Cameroon', 'value': './images/Cameroon/vector.svg'}
+{'text': 'Canada', 'value': './images/Canada/vector.svg'}
+{'text': 'Cape Verde', 'value': './images/Cape Verde/vector.svg'}
+{'text': 'Cayman Islands', 'value': './images/Cayman Islands/vector.svg'}
+{'text': 'Central African Republic', 'value': './images/Central African Republic/vector.svg'}
+{'text': 'Chad', 'value': './images/Chad/vector.svg'}
+{'text': 'Chile', 'value': './images/Chile/vector.svg'}
+{'text': 'China', 'value': './images/China/vector.svg'}
+{'text': 'Christmas Island', 'value': './images/Christmas Island/vector.svg'}
+{'text': 'Cocos (Keeling) Islands', 'value': './images/Cocos (Keeling) Islands/vector.svg'}
+{'text': 'Colombia', 'value': './images/Colombia/vector.svg'}
+{'text': 'Comoros', 'value': './images/Comoros/vector.svg'}
+{'text': 'Congo', 'value': './images/Congo/vector.svg'}
+{'text': 'Congo, The Democratic Republic of the', 'value': './images/Congo, The Democratic Republic of the/vector.svg'}
+{'text': 'Cook Islands', 'value': './images/Cook Islands/vector.svg'}
+{'text': 'Costa Rica', 'value': './images/Costa Rica/vector.svg'}
+{'text': "Cote D'Ivoire", 'value': "./images/Cote D'Ivoire/vector.svg"}
+{'text': 'Croatia', 'value': './images/Croatia/vector.svg'}
+{'text': 'Cuba', 'value': './images/Cuba/vector.svg'}
+{'text': 'Cyprus', 'value': './images/Cyprus/vector.svg'}
+{'text': 'Czech Republic', 'value': './images/Czech Republic/vector.svg'}
+{'text': 'Denmark', 'value': './images/Denmark/vector.svg'}
+{'text': 'Djibouti', 'value': './images/Djibouti/vector.svg'}
+{'text': 'Dominica', 'value': './images/Dominica/vector.svg'}
+{'text': 'Dominican Republic', 'value': './images/Dominican Republic/vector.svg'}
+{'text': 'Ecuador', 'value': './images/Ecuador/vector.svg'}
+{'text': 'Egypt', 'value': './images/Egypt/vector.svg'}
+{'text': 'El Salvador', 'value': './images/El Salvador/vector.svg'}
+{'text': 'Equatorial Guinea', 'value': './images/Equatorial Guinea/vector.svg'}
+{'text': 'Eritrea', 'value': './images/Eritrea/vector.svg'}
+{'text': 'Estonia', 'value': './images/Estonia/vector.svg'}
+{'text': 'Ethiopia', 'value': './images/Ethiopia/vector.svg'}
+{'text': 'Falkland Islands (Malvinas)', 'value': './images/Falkland Islands (Malvinas)/vector.svg'}
+{'text': 'Faroe Islands', 'value': './images/Faroe Islands/vector.svg'}
+{'text': 'Fiji', 'value': './images/Fiji/vector.svg'}
+{'text': 'Finland', 'value': './images/Finland/vector.svg'}
+{'text': 'France', 'value': './images/France/vector.svg'}
+{'text': 'French Guiana', 'value': './images/French Guiana/vector.svg'}
+{'text': 'French Polynesia', 'value': './images/French Polynesia/vector.svg'}
+{'text': 'French Southern Territories', 'value': './images/French Southern Territories/vector.svg'}
+{'text': 'Gabon', 'value': './images/Gabon/vector.svg'}
+{'text': 'Gambia', 'value': './images/Gambia/vector.svg'}
+{'text': 'Georgia', 'value': './images/Georgia/vector.svg'}
+{'text': 'Germany', 'value': './images/Germany/vector.svg'}
+{'text': 'Ghana', 'value': './images/Ghana/vector.svg'}
+{'text': 'Gibraltar', 'value': './images/Gibraltar/vector.svg'}
+{'text': 'Greece', 'value': './images/Greece/vector.svg'}
+{'text': 'Greenland', 'value': './images/Greenland/vector.svg'}
+{'text': 'Grenada', 'value': './images/Grenada/vector.svg'}
+{'text': 'Guadeloupe', 'value': './images/Guadeloupe/vector.svg'}
+{'text': 'Guam', 'value': './images/Guam/vector.svg'}
+{'text': 'Guatemala', 'value': './images/Guatemala/vector.svg'}
+{'text': 'Guernsey', 'value': './images/Guernsey/vector.svg'}
+{'text': 'Guinea', 'value': './images/Guinea/vector.svg'}
+{'text': 'Guinea-Bissau', 'value': './images/Guinea-Bissau/vector.svg'}
+{'text': 'Guyana', 'value': './images/Guyana/vector.svg'}
+{'text': 'Haiti', 'value': './images/Haiti/vector.svg'}
+{'text': 'Heard Island and Mcdonald Islands', 'value': './images/Heard Island and Mcdonald Islands/vector.svg'}
+{'text': 'Holy See (Vatican City State)', 'value': './images/Holy See (Vatican City State)/vector.svg'}
+{'text': 'Honduras', 'value': './images/Honduras/vector.svg'}
+{'text': 'Hong Kong', 'value': './images/Hong Kong/vector.svg'}
+{'text': 'Hungary', 'value': './images/Hungary/vector.svg'}
+{'text': 'Iceland', 'value': './images/Iceland/vector.svg'}
+{'text': 'India', 'value': './images/India/vector.svg'}
+{'text': 'Indonesia', 'value': './images/Indonesia/vector.svg'}
+{'text': 'Iran, Islamic Republic Of', 'value': './images/Iran, Islamic Republic Of/vector.svg'}
+{'text': 'Iraq', 'value': './images/Iraq/vector.svg'}
+{'text': 'Ireland', 'value': './images/Ireland/vector.svg'}
+{'text': 'Isle of Man', 'value': './images/Isle of Man/vector.svg'}
+{'text': 'Israel', 'value': './images/Israel/vector.svg'}
+{'text': 'Italy', 'value': './images/Italy/vector.svg'}
+{'text': 'Jamaica', 'value': './images/Jamaica/vector.svg'}
+{'text': 'Japan', 'value': './images/Japan/vector.svg'}
+{'text': 'Jersey', 'value': './images/Jersey/vector.svg'}
+{'text': 'Jordan', 'value': './images/Jordan/vector.svg'}
+{'text': 'Kazakhstan', 'value': './images/Kazakhstan/vector.svg'}
+{'text': 'Kenya', 'value': './images/Kenya/vector.svg'}
+{'text': 'Kiribati', 'value': './images/Kiribati/vector.svg'}
+{'text': "Korea, Democratic People's Republic of", 'value': "./images/Korea, Democratic People's Republic of/vector.svg"}
+{'text': 'Korea, Republic of', 'value': './images/Korea, Republic of/vector.svg'}
+{'text': 'Kuwait', 'value': './images/Kuwait/vector.svg'}
+{'text': 'Kyrgyzstan', 'value': './images/Kyrgyzstan/vector.svg'}
+{'text': "Lao People's Democratic Republic", 'value': "./images/Lao People's Democratic Republic/vector.svg"}
+{'text': 'Latvia', 'value': './images/Latvia/vector.svg'}
+{'text': 'Lebanon', 'value': './images/Lebanon/vector.svg'}
+{'text': 'Lesotho', 'value': './images/Lesotho/vector.svg'}
+{'text': 'Liberia', 'value': './images/Liberia/vector.svg'}
+{'text': 'Libyan Arab Jamahiriya', 'value': './images/Libyan Arab Jamahiriya/vector.svg'}
+{'text': 'Liechtenstein', 'value': './images/Liechtenstein/vector.svg'}
+{'text': 'Lithuania', 'value': './images/Lithuania/vector.svg'}
+{'text': 'Luxembourg', 'value': './images/Luxembourg/vector.svg'}
+{'text': 'Macao', 'value': './images/Macao/vector.svg'}
+{'text': 'Macedonia, The Former Yugoslav Republic of', 'value': './images/Macedonia, The Former Yugoslav Republic of/vector.svg'}
+{'text': 'Madagascar', 'value': './images/Madagascar/vector.svg'}
+{'text': 'Malawi', 'value': './images/Malawi/vector.svg'}
+{'text': 'Malaysia', 'value': './images/Malaysia/vector.svg'}
+{'text': 'Maldives', 'value': './images/Maldives/vector.svg'}
+{'text': 'Mali', 'value': './images/Mali/vector.svg'}
+{'text': 'Malta', 'value': './images/Malta/vector.svg'}
+{'text': 'Marshall Islands', 'value': './images/Marshall Islands/vector.svg'}
+{'text': 'Martinique', 'value': './images/Martinique/vector.svg'}
+{'text': 'Mauritania', 'value': './images/Mauritania/vector.svg'}
+{'text': 'Mauritius', 'value': './images/Mauritius/vector.svg'}
+{'text': 'Mayotte', 'value': './images/Mayotte/vector.svg'}
+{'text': 'Mexico', 'value': './images/Mexico/vector.svg'}
+{'text': 'Micronesia, Federated States of', 'value': './images/Micronesia, Federated States of/vector.svg'}
+{'text': 'Moldova, Republic of', 'value': './images/Moldova, Republic of/vector.svg'}
+{'text': 'Monaco', 'value': './images/Monaco/vector.svg'}
+{'text': 'Mongolia', 'value': './images/Mongolia/vector.svg'}
+{'text': 'Montserrat', 'value': './images/Montserrat/vector.svg'}
+{'text': 'Morocco', 'value': './images/Morocco/vector.svg'}
+{'text': 'Mozambique', 'value': './images/Mozambique/vector.svg'}
+{'text': 'Myanmar', 'value': './images/Myanmar/vector.svg'}
+{'text': 'Namibia', 'value': './images/Namibia/vector.svg'}
+{'text': 'Nauru', 'value': './images/Nauru/vector.svg'}
+{'text': 'Nepal', 'value': './images/Nepal/vector.svg'}
+{'text': 'Netherlands', 'value': './images/Netherlands/vector.svg'}
+{'text': 'Netherlands Antilles', 'value': './images/Netherlands Antilles/vector.svg'}
+{'text': 'New Caledonia', 'value': './images/New Caledonia/vector.svg'}
+{'text': 'New Zealand', 'value': './images/New Zealand/vector.svg'}
+{'text': 'Nicaragua', 'value': './images/Nicaragua/vector.svg'}
+{'text': 'Niger', 'value': './images/Niger/vector.svg'}
+{'text': 'Nigeria', 'value': './images/Nigeria/vector.svg'}
+{'text': 'Niue', 'value': './images/Niue/vector.svg'}
+{'text': 'Norfolk Island', 'value': './images/Norfolk Island/vector.svg'}
+{'text': 'Northern Mariana Islands', 'value': './images/Northern Mariana Islands/vector.svg'}
+{'text': 'Norway', 'value': './images/Norway/vector.svg'}
+{'text': 'Oman', 'value': './images/Oman/vector.svg'}
+{'text': 'Pakistan', 'value': './images/Pakistan/vector.svg'}
+{'text': 'Palau', 'value': './images/Palau/vector.svg'}
+{'text': 'Palestinian Territory, Occupied', 'value': './images/Palestinian Territory, Occupied/vector.svg'}
+{'text': 'Panama', 'value': './images/Panama/vector.svg'}
+{'text': 'Papua New Guinea', 'value': './images/Papua New Guinea/vector.svg'}
+{'text': 'Paraguay', 'value': './images/Paraguay/vector.svg'}
+{'text': 'Peru', 'value': './images/Peru/vector.svg'}
+{'text': 'Philippines', 'value': './images/Philippines/vector.svg'}
+{'text': 'Pitcairn', 'value': './images/Pitcairn/vector.svg'}
+{'text': 'Poland', 'value': './images/Poland/vector.svg'}
+{'text': 'Portugal', 'value': './images/Portugal/vector.svg'}
+{'text': 'Puerto Rico', 'value': './images/Puerto Rico/vector.svg'}
+{'text': 'Qatar', 'value': './images/Qatar/vector.svg'}
+{'text': 'Reunion', 'value': './images/Reunion/vector.svg'}
+{'text': 'Romania', 'value': './images/Romania/vector.svg'}
+{'text': 'Russian Federation', 'value': './images/Russian Federation/vector.svg'}
+{'text': 'Rwanda', 'value': './images/Rwanda/vector.svg'}
+{'text': 'Saint Helena', 'value': './images/Saint Helena/vector.svg'}
+{'text': 'Saint Kitts and Nevis', 'value': './images/Saint Kitts and Nevis/vector.svg'}
+{'text': 'Saint Lucia', 'value': './images/Saint Lucia/vector.svg'}
+{'text': 'Saint Pierre and Miquelon', 'value': './images/Saint Pierre and Miquelon/vector.svg'}
+{'text': 'Saint Vincent and the Grenadines', 'value': './images/Saint Vincent and the Grenadines/vector.svg'}
+{'text': 'Samoa', 'value': './images/Samoa/vector.svg'}
+{'text': 'San Marino', 'value': './images/San Marino/vector.svg'}
+{'text': 'Sao Tome and Principe', 'value': './images/Sao Tome and Principe/vector.svg'}
+{'text': 'Saudi Arabia', 'value': './images/Saudi Arabia/vector.svg'}
+{'text': 'Senegal', 'value': './images/Senegal/vector.svg'}
+{'text': 'Serbia and Montenegro', 'value': './images/Serbia and Montenegro/vector.svg'}
+{'text': 'Seychelles', 'value': './images/Seychelles/vector.svg'}
+{'text': 'Sierra Leone', 'value': './images/Sierra Leone/vector.svg'}
+{'text': 'Singapore', 'value': './images/Singapore/vector.svg'}
+{'text': 'Slovakia', 'value': './images/Slovakia/vector.svg'}
+{'text': 'Slovenia', 'value': './images/Slovenia/vector.svg'}
+{'text': 'Solomon Islands', 'value': './images/Solomon Islands/vector.svg'}
+{'text': 'Somalia', 'value': './images/Somalia/vector.svg'}
+{'text': 'South Africa', 'value': './images/South Africa/vector.svg'}
+{'text': 'South Georgia and the South Sandwich Islands', 'value': './images/South Georgia and the South Sandwich Islands/vector.svg'}
+{'text': 'Spain', 'value': './images/Spain/vector.svg'}
+{'text': 'Sri Lanka', 'value': './images/Sri Lanka/vector.svg'}
+{'text': 'Sudan', 'value': './images/Sudan/vector.svg'}
+{'text': 'Suriname', 'value': './images/Suriname/vector.svg'}
+{'text': 'Svalbard and Jan Mayen', 'value': './images/Svalbard and Jan Mayen/vector.svg'}
+{'text': 'Swaziland', 'value': './images/Swaziland/vector.svg'}
+{'text': 'Sweden', 'value': './images/Sweden/vector.svg'}
+{'text': 'Switzerland', 'value': './images/Switzerland/vector.svg'}
+{'text': 'Syrian Arab Republic', 'value': './images/Syrian Arab Republic/vector.svg'}
+{'text': 'Taiwan, Province of China', 'value': './images/Taiwan, Province of China/vector.svg'}
+{'text': 'Tajikistan', 'value': './images/Tajikistan/vector.svg'}
+{'text': 'Tanzania, United Republic of', 'value': './images/Tanzania, United Republic of/vector.svg'}
+{'text': 'Thailand', 'value': './images/Thailand/vector.svg'}
+{'text': 'Timor-Leste', 'value': './images/Timor-Leste/vector.svg'}
+{'text': 'Togo', 'value': './images/Togo/vector.svg'}
+{'text': 'Tokelau', 'value': './images/Tokelau/vector.svg'}
+{'text': 'Tonga', 'value': './images/Tonga/vector.svg'}
+{'text': 'Trinidad and Tobago', 'value': './images/Trinidad and Tobago/vector.svg'}
+{'text': 'Tunisia', 'value': './images/Tunisia/vector.svg'}
+{'text': 'Turkey', 'value': './images/Turkey/vector.svg'}
+{'text': 'Turkmenistan', 'value': './images/Turkmenistan/vector.svg'}
+{'text': 'Turks and Caicos Islands', 'value': './images/Turks and Caicos Islands/vector.svg'}
+{'text': 'Tuvalu', 'value': './images/Tuvalu/vector.svg'}
+{'text': 'Uganda', 'value': './images/Uganda/vector.svg'}
+{'text': 'Ukraine', 'value': './images/Ukraine/vector.svg'}
+{'text': 'United Arab Emirates', 'value': './images/United Arab Emirates/vector.svg'}
+{'text': 'United Kingdom', 'value': './images/United Kingdom/vector.svg'}
+{'text': 'United States', 'value': './images/United States/vector.svg'}
+{'text': 'United States Minor Outlying Islands', 'value': './images/United States Minor Outlying Islands/vector.svg'}
+{'text': 'Uruguay', 'value': './images/Uruguay/vector.svg'}
+{'text': 'Uzbekistan', 'value': './images/Uzbekistan/vector.svg'}
+{'text': 'Vanuatu', 'value': './images/Vanuatu/vector.svg'}
+{'text': 'Venezuela', 'value': './images/Venezuela/vector.svg'}
+{'text': 'Viet Nam', 'value': './images/Viet Nam/vector.svg'}
+{'text': 'Virgin Islands, British', 'value': './images/Virgin Islands, British/vector.svg'}
+{'text': 'Virgin Islands, U.S.', 'value': './images/Virgin Islands, U.S./vector.svg'}
+{'text': 'Wallis and Futuna', 'value': './images/Wallis and Futuna/vector.svg'}
+{'text': 'Western Sahara', 'value': './images/Western Sahara/vector.svg'}
+{'text': 'Yemen', 'value': './images/Yemen/vector.svg'}
+{'text': 'Zambia', 'value': './images/Zambia/vector.svg'}
+{'text': 'Zimbabwe', 'value': './images/Zimbabwe/vector.svg'}
+]
