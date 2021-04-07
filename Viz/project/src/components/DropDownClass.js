@@ -6,7 +6,7 @@ class DropDownClass extends Component {
     constructor () {
         super();
         this.state = {
-            country_chosen: ""
+            country_chosen: "thing"
         }
         
         
@@ -33,7 +33,7 @@ class DropDownClass extends Component {
                     selection
                     options={countries}
                 />
-                <img src={country_chosen} alt="image not found"/>
+                <img src={this.country_chosen} alt="image not found"/>
             </>
         );
     }
