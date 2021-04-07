@@ -13,7 +13,7 @@ class DropDownClass extends Component {
     } 
     
     change_country = (e, data) => {
-        var country_image_path = require(data.value);
+        var country_image_path = require("./images" + data.value);
         this.setState({country_chosen: country_image_path});
     }
     
@@ -33,7 +33,7 @@ class DropDownClass extends Component {
                     selection
                     options={countries}
                 />
-                <img src={this.country_chosen} alt="image not found"/>
+                <img src={this.country_chosen} alt="A country was supposed to show up..."/>
             </>
         );
     }
