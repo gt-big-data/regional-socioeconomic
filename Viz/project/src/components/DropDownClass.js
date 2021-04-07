@@ -6,16 +6,17 @@ class DropDownClass extends Component {
     constructor () {
         super();
         this.state = {
-            country_chosen: "none"
+            country_chosen = ""
         }
+        
         
     } 
     
     change_country = (e, data) => {
-        var country_name = 
-        this.setState({country_chosen: data.value});
-        console.log(data);
+        var country_image_path = require(data.value);
+        this.setState({country_chosen: country_image_path});
     }
+    
     render() {
         const menuStyle = {
             width: "30%",
@@ -32,7 +33,7 @@ class DropDownClass extends Component {
                     selection
                     options={countries}
                 />
-                <p>{`Current Country: ${this.state.country_chosen}`}</p>
+                <img src={country_chosen} alt="image not found"/>
             </>
         );
     }
