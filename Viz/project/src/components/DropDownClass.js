@@ -6,7 +6,7 @@ class DropDownClass extends Component {
     constructor () {
         super();
         this.state = {
-            country_chosen = ""
+            country_chosen: ""
         }
         
         
