@@ -1,6 +1,6 @@
 import React, {Component} from 'react'
 import { Dropdown } from 'semantic-ui-react'
-import countries from "../dataFiles/countries";
+import countries from "../dataFiles/modifiedCountries";
 
 class DropDownClass extends Component {
     constructor () {
