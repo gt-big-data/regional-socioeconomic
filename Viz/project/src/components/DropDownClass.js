@@ -17,7 +17,6 @@ class DropDownClass extends Component {
     change_country = (e, data) => {
         var imagePath = require("./images" + data.value)
         this.setState({country_chosen: imagePath});
-        console.log(this.state.country_chosen);
     }
 
     do_nothing = (e) => {
