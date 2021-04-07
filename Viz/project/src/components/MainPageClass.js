@@ -1,7 +1,6 @@
 import React, {Component} from 'react';
 import { Dropdown } from 'semantic-ui-react';
 import DropDownClass from "../components/DropDownClass";
-import MapDisplayClass from './MapDisplayClass';
 
 
 class MainPageClass extends Component {
@@ -13,7 +12,6 @@ class MainPageClass extends Component {
         return (
             <>
                 <DropDownClass/>
-                <MapDisplayClass/>
             </>
         );
     }

@@ -1,21 +1,27 @@
+
 import React, {Component} from 'react'
 import { Dropdown } from 'semantic-ui-react'
-import countries from "../dataFiles/countries";
+import countries from "../dataFiles/modifiedCountries";
+import Venezuela from "./images/Antarctica/vector.svg";
 
 class DropDownClass extends Component {
     constructor () {
         super();
         this.state = {
-            country_chosen: "none"
+            country_chosen: require("./images/Antarctica/vector.svg")
         }
+        
         
     } 
     
     change_country = (e, data) => {
-        var country_name = 
-        this.setState({country_chosen: data.value});
-        console.log(data);
+        var imagePath = require("./images" + data.value)
+        this.setState({country_chosen: imagePath});
     }
+
+    do_nothing = (e) => {
+        console.log("this did nothing")
+    }    
     render() {
         const menuStyle = {
             width: "30%",
@@ -32,7 +38,7 @@ class DropDownClass extends Component {
                     selection
                     options={countries}
                 />
-                <p>{`Current Country: ${this.state.country_chosen}`}</p>
+                <img src={this.state.country_chosen.default} alt="not found"/>
             </>
         );
     }
