@@ -58,12 +58,12 @@ class DropDownClass extends Component {
         this.setState({country_string: data.value});
         var current = 0;
         for (var i = 0; i < countries.length; i++) {
-            if ((countries[i].value) == (this.state.country_string)) {
+            if ((countries[i].value) == (data.value)) {
                 current = countries[i].num;
                 break;
             }
         }
-        this.setState({country_name: countries[current-2].text});
+        this.setState({country_name: countries[current-1].text});
         //console.log(this.state.country_chosen);
         console.log(data);
     }
