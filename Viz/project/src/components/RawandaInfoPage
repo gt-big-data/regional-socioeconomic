@@ -1,0 +1,18 @@
+import React, {Component} from 'react'
+
+class RawandaInfoPage extends Component {
+
+    constructor () {
+        super();
+    } 
+
+    render() {
+        return(
+            <>
+                <p>Here is the page where Rawanda information should go</p>
+            </>
+        );
+    }
+}
+
+export default RawandaInfoPage
