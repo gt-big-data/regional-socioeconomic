@@ -3,6 +3,8 @@ import { Dropdown } from 'semantic-ui-react'
 import countries from "../dataFiles/modifiedCountries";
 import Venezuela from "./images/Antarctica/vector.svg";
 import index from '../index.css';
+import RawandaInfoPage from "./RawandaInfoPage";
+import { Link, Route, BrowserRouter as Router, Switch } from 'react-router-dom';
 
 class DropDownClass extends Component {
 
@@ -97,7 +99,16 @@ class DropDownClass extends Component {
                 <a href="#" onClick={this.Next_Click}>
                     Next
                 </a>
-                
+                <Router>
+                    <Link to="/RawandaInfoPage">
+                        More Information
+                    </Link>
+                    <Switch>
+                        <Route path="/RawandaInfoPage">
+                            <RawandaInfoPage/>
+                        </Route>
+                    </Switch>
+                </Router>
             </>
         );
     }
