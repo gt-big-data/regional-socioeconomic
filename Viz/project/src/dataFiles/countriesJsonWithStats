@@ -1,0 +1,2422 @@
+[
+    {
+        "num": 1, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Afghanistan", 
+        "value": "/Afghanistan/vector.svg"
+    }, 
+    {
+        "num": 2, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Aland Islands", 
+        "value": "/Aland Islands/vector.svg"
+    }, 
+    {
+        "num": 3, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Albania", 
+        "value": "/Albania/vector.svg"
+    }, 
+    {
+        "num": 4, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Algeria", 
+        "value": "/Algeria/vector.svg"
+    }, 
+    {
+        "num": 5, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "American Samoa", 
+        "value": "/American Samoa/vector.svg"
+    }, 
+    {
+        "num": 6, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Andorra", 
+        "value": "/Andorra/vector.svg"
+    }, 
+    {
+        "num": 7, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Angola", 
+        "value": "/Angola/vector.svg"
+    }, 
+    {
+        "num": 8, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Anguilla", 
+        "value": "/Anguilla/vector.svg"
+    }, 
+    {
+        "num": 9, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Antarctica", 
+        "value": "/Antarctica/vector.svg"
+    }, 
+    {
+        "num": 10, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Antigua and Barbuda", 
+        "value": " /Antigua and Barbuda/vector.svg"
+    }, 
+    {
+        "num": 11, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Argentina", 
+        "value": "/Argentina/vector.svg"
+    }, 
+    {
+        "num": 12, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Armenia", 
+        "value": "/Armenia/vector.svg"
+    }, 
+    {
+        "num": 13, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Aruba", 
+        "value": "/Aruba/vector.svg"
+    }, 
+    {
+        "num": 14, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Australia", 
+        "value": "/Australia/vector.svg"
+    }, 
+    {
+        "num": 15, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Austria", 
+        "value": "/Austria/vector.svg"
+    }, 
+    {
+        "num": 16, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Azerbaijan", 
+        "value": "/Azerbaijan/vector.svg"
+    }, 
+    {
+        "num": 17, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Bahamas", 
+        "value": "/Bahamas/vector.svg"
+    }, 
+    {
+        "num": 18, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Bahrain", 
+        "value": "/Bahrain/vector.svg"
+    }, 
+    {
+        "num": 19, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Bangladesh", 
+        "value": "/Bangladesh/vector.svg"
+    }, 
+    {
+        "num": 20, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Barbados", 
+        "value": "/Barbados/vector.svg"
+    }, 
+    {
+        "num": 21, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Belarus", 
+        "value": "/Belarus/vector.svg"
+    }, 
+    {
+        "num": 22, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Belgium", 
+        "value": "/Belgium/vector.svg"
+    }, 
+    {
+        "num": 23, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Belize", 
+        "value": "/Belize/vector.svg"
+    }, 
+    {
+        "num": 24, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Benin", 
+        "value": "/Benin/vector.svg"
+    }, 
+    {
+        "num": 25, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Bermuda", 
+        "value": "/Bermuda/vector.svg"
+    }, 
+    {
+        "num": 26, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Bhutan", 
+        "value": "/Bhutan/vector.svg"
+    }, 
+    {
+        "num": 27, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Bolivia", 
+        "value": "/Bolivia/vector.svg"
+    }, 
+    {
+        "num": 28, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Bosnia and Herzegovina", 
+        "value": "/Bosnia and Herzegovina/vector.svg"
+    }, 
+    {
+        "num": 29, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Botswana", 
+        "value": "/Botswana/vector.svg"
+    }, 
+    {
+        "num": 30, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Bouvet Island", 
+        "value": "/Bouvet Island/vector.svg"
+    }, 
+    {
+        "num": 31, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Brazil", 
+        "value": "/Brazil/vector.svg"
+    }, 
+    {
+        "num": 32, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "British Indian Ocean Territory", 
+        "value": "/British Indian Ocean Territory/vector.svg"
+    }, 
+    {
+        "num": 33, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Brunei Darussalam", 
+        "value": "/Brunei Darussalam/vector.svg"
+    }, 
+    {
+        "num": 34, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Bulgaria", 
+        "value": "/Bulgaria/vector.svg"
+    }, 
+    {
+        "num": 35, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Burkina Faso", 
+        "value": "/Burkina Faso/vector.svg"
+    }, 
+    {
+        "num": 36, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Burundi", 
+        "value": "/Burundi/vector.svg"
+    }, 
+    {
+        "num": 37, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Cambodia", 
+        "value": "/Cambodia/vector.svg"
+    }, 
+    {
+        "num": 38, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Cameroon", 
+        "value": "/Cameroon/vector.svg"
+    }, 
+    {
+        "num": 39, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Canada", 
+        "value": "/Canada/vector.svg"
+    }, 
+    {
+        "num": 40, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Cape Verde", 
+        "value": "/Cape Verde/vector.svg"
+    }, 
+    {
+        "num": 41, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Cayman Islands", 
+        "value": "/Cayman Islands/vector.svg"
+    }, 
+    {
+        "num": 42, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Central African Republic", 
+        "value": "/Central African Republic/vector.svg"
+    }, 
+    {
+        "num": 43, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Chad", 
+        "value": "/Chad/vector.svg"
+    }, 
+    {
+        "num": 44, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Chile", 
+        "value": "/Chile/vector.svg"
+    }, 
+    {
+        "num": 45, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "China", 
+        "value": "/China/vector.svg"
+    }, 
+    {
+        "num": 46, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Christmas Island", 
+        "value": "/Christmas Island/vector.svg"
+    }, 
+    {
+        "num": 47, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Cocos (Keeling) Islands", 
+        "value": "/Cocos (Keeling) Islands/vector.svg"
+    }, 
+    {
+        "num": 48, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Colombia", 
+        "value": "/Colombia/vector.svg"
+    }, 
+    {
+        "num": 49, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Congo", 
+        "value": "/Congo/vector.svg"
+    }, 
+    {
+        "num": 50, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Congo, The Democratic Republic of the", 
+        "value": "/Congo, The Democratic Republic of the/vector.svg"
+    }, 
+    {
+        "num": 51, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Cook Islands", 
+        "value": "/Cook Islands/vector.svg"
+    }, 
+    {
+        "num": 52, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Costa Rica", 
+        "value": "/Costa Rica/vector.svg"
+    }, 
+    {
+        "num": 53, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Cote D Ivoire", 
+        "value": "/Cote DIvoire/vector.svg"
+    }, 
+    {
+        "num": 54, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Croatia", 
+        "value": "/Croatia/vector.svg"
+    }, 
+    {
+        "num": 55, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Cuba", 
+        "value": "/Cuba/vector.svg"
+    }, 
+    {
+        "num": 56, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Cyprus", 
+        "value": "/Cyprus/vector.svg"
+    }, 
+    {
+        "num": 57, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Czech Republic", 
+        "value": "/Czech Republic/vector.svg"
+    }, 
+    {
+        "num": 58, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Denmark", 
+        "value": "/Denmark/vector.svg"
+    }, 
+    {
+        "num": 59, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Djibouti", 
+        "value": "/Djibouti/vector.svg"
+    }, 
+    {
+        "num": 60, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Dominica", 
+        "value": "/Dominica/vector.svg"
+    }, 
+    {
+        "num": 61, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Dominican Republic", 
+        "value": "/Dominican Republic/vector.svg"
+    }, 
+    {
+        "num": 62, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Ecuador", 
+        "value": "/Ecuador/vector.svg"
+    }, 
+    {
+        "num": 63, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Egypt", 
+        "value": "/Egypt/vector.svg"
+    }, 
+    {
+        "num": 64, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "El Salvador", 
+        "value": "/El Salvador/vector.svg"
+    }, 
+    {
+        "num": 65, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Equatorial Guinea", 
+        "value": "/Equatorial Guinea/vector.svg"
+    }, 
+    {
+        "num": 66, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Eritrea", 
+        "value": "/Eritrea/vector.svg"
+    }, 
+    {
+        "num": 67, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Estonia", 
+        "value": "/Estonia/vector.svg"
+    }, 
+    {
+        "num": 68, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Ethiopia", 
+        "value": "/Ethiopia/vector.svg"
+    }, 
+    {
+        "num": 69, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Falkland Islands (Malvinas)", 
+        "value": "/Falkland Islands (Malvinas)/vector.svg"
+    }, 
+    {
+        "num": 70, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Faroe Islands", 
+        "value": "/Faroe Islands/vector.svg"
+    }, 
+    {
+        "num": 71, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Fiji", 
+        "value": "/Fiji/vector.svg"
+    }, 
+    {
+        "num": 72, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Finland", 
+        "value": "/Finland/vector.svg"
+    }, 
+    {
+        "num": 73, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "France", 
+        "value": "/France/vector.svg"
+    }, 
+    {
+        "num": 74, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "French Guiana", 
+        "value": "/French Guiana/vector.svg"
+    }, 
+    {
+        "num": 75, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "French Polynesia", 
+        "value": "/French Polynesia/vector.svg"
+    }, 
+    {
+        "num": 76, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "French Southern Territories", 
+        "value": "/French Southern Territories/vector.svg"
+    }, 
+    {
+        "num": 77, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Gabon", 
+        "value": "/Gabon/vector.svg"
+    }, 
+    {
+        "num": 78, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Gambia", 
+        "value": "/Gambia/vector.svg"
+    }, 
+    {
+        "num": 79, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Georgia", 
+        "value": "/Georgia/vector.svg"
+    }, 
+    {
+        "num": 80, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Germany", 
+        "value": "/Germany/vector.svg"
+    }, 
+    {
+        "num": 81, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Ghana", 
+        "value": "/Ghana/vector.svg"
+    }, 
+    {
+        "num": 82, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Gibraltar", 
+        "value": "/Gibraltar/vector.svg"
+    }, 
+    {
+        "num": 83, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Greece", 
+        "value": "/Greece/vector.svg"
+    }, 
+    {
+        "num": 84, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Greenland", 
+        "value": "/Greenland/vector.svg"
+    }, 
+    {
+        "num": 85, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Grenada", 
+        "value": "/Grenada/vector.svg"
+    }, 
+    {
+        "num": 86, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Guadeloupe", 
+        "value": "/Guadeloupe/vector.svg"
+    }, 
+    {
+        "num": 87, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Guam", 
+        "value": "/Guam/vector.svg"
+    }, 
+    {
+        "num": 88, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Guatemala", 
+        "value": "/Guatemala/vector.svg"
+    }, 
+    {
+        "num": 89, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Guernsey", 
+        "value": "/Guernsey/vector.svg"
+    }, 
+    {
+        "num": 90, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Guinea", 
+        "value": "/Guinea/vector.svg"
+    }, 
+    {
+        "num": 91, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Guinea-Bissau", 
+        "value": "/Guinea-Bissau/vector.svg"
+    }, 
+    {
+        "num": 92, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Guyana", 
+        "value": "/Guyana/vector.svg"
+    }, 
+    {
+        "num": 93, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Haiti", 
+        "value": "/Haiti/vector.svg"
+    }, 
+    {
+        "num": 94, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Heard Island and Mcdonald Islands", 
+        "value": "/Heard Island and Mcdonald Islands/vector.svg"
+    }, 
+    {
+        "num": 95, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Holy See (Vatican City State)", 
+        "value": "/Holy See (Vatican City State)/vector.svg"
+    }, 
+    {
+        "num": 96, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Honduras", 
+        "value": "/Honduras/vector.svg"
+    }, 
+    {
+        "num": 97, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Hong Kong", 
+        "value": "/Hong Kong/vector.svg"
+    }, 
+    {
+        "num": 98, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Hungary", 
+        "value": "/Hungary/vector.svg"
+    }, 
+    {
+        "num": 99, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Iceland", 
+        "value": "/Iceland/vector.svg"
+    }, 
+    {
+        "num": 100, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "India", 
+        "value": "/India/vector.svg"
+    }, 
+    {
+        "num": 101, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Indonesia", 
+        "value": "/Indonesia/vector.svg"
+    }, 
+    {
+        "num": 102, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Iran, Islamic Republic Of", 
+        "value": "/Iran, Islamic Republic Of/vector.svg"
+    }, 
+    {
+        "num": 103, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Iraq", 
+        "value": "/Iraq/vector.svg"
+    }, 
+    {
+        "num": 104, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Ireland", 
+        "value": "/Ireland/vector.svg"
+    }, 
+    {
+        "num": 105, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Isle of Man", 
+        "value": "/Isle of Man/vector.svg"
+    }, 
+    {
+        "num": 106, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Israel", 
+        "value": "/Israel/vector.svg"
+    }, 
+    {
+        "num": 107, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Italy", 
+        "value": "/Italy/vector.svg"
+    }, 
+    {
+        "num": 108, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Jamaica", 
+        "value": "/Jamaica/vector.svg"
+    }, 
+    {
+        "num": 109, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Japan", 
+        "value": "/Japan/vector.svg"
+    }, 
+    {
+        "num": 110, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Jersey", 
+        "value": "/Jersey/vector.svg"
+    }, 
+    {
+        "num": 111, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Jordan", 
+        "value": "/Jordan/vector.svg"
+    }, 
+    {
+        "num": 112, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Kazakhstan", 
+        "value": "/Kazakhstan/vector.svg"
+    }, 
+    {
+        "num": 113, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Kenya", 
+        "value": "/Kenya/vector.svg"
+    }, 
+    {
+        "num": 114, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Kiribati", 
+        "value": "/Kiribati/vector.svg"
+    }, 
+    {
+        "num": 115, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Korea, Democratic People's Republic of", 
+        "value": "/Korea, Democratic People's Republic of/vector.svg"
+    }, 
+    {
+        "num": 116, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Korea, Republic of", 
+        "value": "/Korea, Republic of/vector.svg"
+    }, 
+    {
+        "num": 117, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Kuwait", 
+        "value": "/Kuwait/vector.svg"
+    }, 
+    {
+        "num": 118, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Kyrgyzstan", 
+        "value": "/Kyrgyzstan/vector.svg"
+    }, 
+    {
+        "num": 119, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Lao People's Democratic Republic", 
+        "value": "/Lao People's Democratic Republic/vector.svg"
+    }, 
+    {
+        "num": 120, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Latvia", 
+        "value": "/Latvia/vector.svg"
+    }, 
+    {
+        "num": 121, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Lebanon", 
+        "value": "/Lebanon/vector.svg"
+    }, 
+    {
+        "num": 122, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Lesotho", 
+        "value": "/Lesotho/vector.svg"
+    }, 
+    {
+        "num": 123, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Liberia", 
+        "value": "/Liberia/vector.svg"
+    }, 
+    {
+        "num": 124, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Libyan Arab Jamahiriya", 
+        "value": "/Libyan Arab Jamahiriya/vector.svg"
+    }, 
+    {
+        "num": 125, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Liechtenstein", 
+        "value": "/Liechtenstein/vector.svg"
+    }, 
+    {
+        "num": 126, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Lithuania", 
+        "value": "/Lithuania/vector.svg"
+    }, 
+    {
+        "num": 127, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Luxembourg", 
+        "value": "/Luxembourg/vector.svg"
+    }, 
+    {
+        "num": 128, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Macao", 
+        "value": "/Macao/vector.svg"
+    }, 
+    {
+        "num": 129, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Macedonia, The Former Yugoslav Republic of", 
+        "value": "/Macedonia, The Former Yugoslav Republic of/vector.svg"
+    }, 
+    {
+        "num": 130, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Madagascar", 
+        "value": "/Madagascar/vector.svg"
+    }, 
+    {
+        "num": 131, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Malawi", 
+        "value": "/Malawi/vector.svg"
+    }, 
+    {
+        "num": 132, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Malaysia", 
+        "value": "/Malaysia/vector.svg"
+    }, 
+    {
+        "num": 133, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Maldives", 
+        "value": "/Maldives/vector.svg"
+    }, 
+    {
+        "num": 134, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Mali", 
+        "value": "/Mali/vector.svg"
+    }, 
+    {
+        "num": 135, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Malta", 
+        "value": "/Malta/vector.svg"
+    }, 
+    {
+        "num": 136, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Marshall Islands", 
+        "value": "/Marshall Islands/vector.svg"
+    }, 
+    {
+        "num": 137, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Martinique", 
+        "value": "/Martinique/vector.svg"
+    }, 
+    {
+        "num": 138, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Mauritania", 
+        "value": "/Mauritania/vector.svg"
+    }, 
+    {
+        "num": 139, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Mauritius", 
+        "value": "/Mauritius/vector.svg"
+    }, 
+    {
+        "num": 140, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Mayotte", 
+        "value": "/Mayotte/vector.svg"
+    }, 
+    {
+        "num": 141, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Mexico", 
+        "value": "/Mexico/vector.svg"
+    }, 
+    {
+        "num": 142, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Micronesia, Federated States of", 
+        "value": "/Micronesia, Federated States of/vector.svg"
+    }, 
+    {
+        "num": 143, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Moldova, Republic of", 
+        "value": "/Moldova, Republic of/vector.svg"
+    }, 
+    {
+        "num": 144, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Monaco", 
+        "value": "/Monaco/vector.svg"
+    }, 
+    {
+        "num": 145, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Mongolia", 
+        "value": "/Mongolia/vector.svg"
+    }, 
+    {
+        "num": 146, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Montserrat", 
+        "value": "/Montserrat/vector.svg"
+    }, 
+    {
+        "num": 147, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Morocco", 
+        "value": "/Morocco/vector.svg"
+    }, 
+    {
+        "num": 148, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Mozambique", 
+        "value": "/Mozambique/vector.svg"
+    }, 
+    {
+        "num": 149, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Myanmar", 
+        "value": "/Myanmar/vector.svg"
+    }, 
+    {
+        "num": 150, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Namibia", 
+        "value": "/Namibia/vector.svg"
+    }, 
+    {
+        "num": 151, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Nauru", 
+        "value": "/Nauru/vector.svg"
+    }, 
+    {
+        "num": 152, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Nepal", 
+        "value": "/Nepal/vector.svg"
+    }, 
+    {
+        "num": 153, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Netherlands", 
+        "value": "/Netherlands/vector.svg"
+    }, 
+    {
+        "num": 154, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Netherlands Antilles", 
+        "value": "/Netherlands Antilles/vector.svg"
+    }, 
+    {
+        "num": 155, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "New Caledonia", 
+        "value": "/New Caledonia/vector.svg"
+    }, 
+    {
+        "num": 156, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "New Zealand", 
+        "value": "/New Zealand/vector.svg"
+    }, 
+    {
+        "num": 157, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Nicaragua", 
+        "value": "/Nicaragua/vector.svg"
+    }, 
+    {
+        "num": 158, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Niger", 
+        "value": "/Niger/vector.svg"
+    }, 
+    {
+        "num": 159, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Nigeria", 
+        "value": "/Nigeria/vector.svg"
+    }, 
+    {
+        "num": 160, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Niue", 
+        "value": "/Niue/vector.svg"
+    }, 
+    {
+        "num": 161, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Norfolk Island", 
+        "value": "/Norfolk Island/vector.svg"
+    }, 
+    {
+        "num": 162, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Northern Mariana Islands", 
+        "value": "/Northern Mariana Islands/vector.svg"
+    }, 
+    {
+        "num": 163, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Norway", 
+        "value": "/Norway/vector.svg"
+    }, 
+    {
+        "num": 164, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Oman", 
+        "value": "/Oman/vector.svg"
+    }, 
+    {
+        "num": 165, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Pakistan", 
+        "value": "/Pakistan/vector.svg"
+    }, 
+    {
+        "num": 166, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Palau", 
+        "value": "/Palau/vector.svg"
+    }, 
+    {
+        "num": 167, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Palestinian Territory, Occupied", 
+        "value": "/Palestinian Territory, Occupied/vector.svg"
+    }, 
+    {
+        "num": 168, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Panama", 
+        "value": "/Panama/vector.svg"
+    }, 
+    {
+        "num": 169, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Papua New Guinea", 
+        "value": "/Papua New Guinea/vector.svg"
+    }, 
+    {
+        "num": 170, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Paraguay", 
+        "value": "/Paraguay/vector.svg"
+    }, 
+    {
+        "num": 171, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Peru", 
+        "value": "/Peru/vector.svg"
+    }, 
+    {
+        "num": 172, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Philippines", 
+        "value": "/Philippines/vector.svg"
+    }, 
+    {
+        "num": 173, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Pitcairn", 
+        "value": "/Pitcairn/vector.svg"
+    }, 
+    {
+        "num": 174, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Poland", 
+        "value": "/Poland/vector.svg"
+    }, 
+    {
+        "num": 175, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Portugal", 
+        "value": "/Portugal/vector.svg"
+    }, 
+    {
+        "num": 176, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Puerto Rico", 
+        "value": "/Puerto Rico/vector.svg"
+    }, 
+    {
+        "num": 177, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Qatar", 
+        "value": "/Qatar/vector.svg"
+    }, 
+    {
+        "num": 178, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Reunion", 
+        "value": "/Reunion/vector.svg"
+    }, 
+    {
+        "num": 179, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Romania", 
+        "value": "/Romania/vector.svg"
+    }, 
+    {
+        "num": 180, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Russian Federation", 
+        "value": "/Russian Federation/vector.svg"
+    }, 
+    {
+        "num": 181, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Rwanda", 
+        "value": "/Rwanda/vector.svg"
+    }, 
+    {
+        "num": 182, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Saint Helena", 
+        "value": "/Saint Helena/vector.svg"
+    }, 
+    {
+        "num": 183, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Saint Kitts and Nevis", 
+        "value": "/Saint Kitts and Nevis/vector.svg"
+    }, 
+    {
+        "num": 184, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Saint Lucia", 
+        "value": "/Saint Lucia/vector.svg"
+    }, 
+    {
+        "num": 185, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Saint Pierre and Miquelon", 
+        "value": "/Saint Pierre and Miquelon/vector.svg"
+    }, 
+    {
+        "num": 186, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Saint Vincent and the Grenadines", 
+        "value": "/Saint Vincent and the Grenadines/vector.svg"
+    }, 
+    {
+        "num": 187, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Samoa", 
+        "value": "/Samoa/vector.svg"
+    }, 
+    {
+        "num": 188, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "San Marino", 
+        "value": "/San Marino/vector.svg"
+    }, 
+    {
+        "num": 189, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Sao Tome and Principe", 
+        "value": "/Sao Tome and Principe/vector.svg"
+    }, 
+    {
+        "num": 190, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Saudi Arabia", 
+        "value": "/Saudi Arabia/vector.svg"
+    }, 
+    {
+        "num": 191, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Senegal", 
+        "value": "/Senegal/vector.svg"
+    }, 
+    {
+        "num": 192, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Serbia and Montenegro", 
+        "value": "/Serbia and Montenegro/vector.svg"
+    }, 
+    {
+        "num": 193, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Seychelles", 
+        "value": "/Seychelles/vector.svg"
+    }, 
+    {
+        "num": 194, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Sierra Leone", 
+        "value": "/Sierra Leone/vector.svg"
+    }, 
+    {
+        "num": 195, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Singapore", 
+        "value": "/Singapore/vector.svg"
+    }, 
+    {
+        "num": 196, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Slovakia", 
+        "value": "/Slovakia/vector.svg"
+    }, 
+    {
+        "num": 197, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Slovenia", 
+        "value": "/Slovenia/vector.svg"
+    }, 
+    {
+        "num": 198, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Solomon Islands", 
+        "value": "/Solomon Islands/vector.svg"
+    }, 
+    {
+        "num": 199, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Somalia", 
+        "value": "/Somalia/vector.svg"
+    }, 
+    {
+        "num": 200, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "South Africa", 
+        "value": "/South Africa/vector.svg"
+    }, 
+    {
+        "num": 201, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "South Georgia and the South Sandwich Islands", 
+        "value": "/South Georgia and the South Sandwich Islands/vector.svg"
+    }, 
+    {
+        "num": 202, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Spain", 
+        "value": "/Spain/vector.svg"
+    }, 
+    {
+        "num": 203, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Sri Lanka", 
+        "value": "/Sri Lanka/vector.svg"
+    }, 
+    {
+        "num": 204, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Sudan", 
+        "value": "/Sudan/vector.svg"
+    }, 
+    {
+        "num": 205, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Suriname", 
+        "value": "/Suriname/vector.svg"
+    }, 
+    {
+        "num": 206, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Svalbard and Jan Mayen", 
+        "value": "/Svalbard and Jan Mayen/vector.svg"
+    }, 
+    {
+        "num": 207, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Swaziland", 
+        "value": "/Swaziland/vector.svg"
+    }, 
+    {
+        "num": 208, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Sweden", 
+        "value": "/Sweden/vector.svg"
+    }, 
+    {
+        "num": 209, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Switzerland", 
+        "value": "/Switzerland/vector.svg"
+    }, 
+    {
+        "num": 210, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Syrian Arab Republic", 
+        "value": "/Syrian Arab Republic/vector.svg"
+    }, 
+    {
+        "num": 211, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Taiwan, Province of China", 
+        "value": "/Taiwan, Province of China/vector.svg"
+    }, 
+    {
+        "num": 212, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Tajikistan", 
+        "value": "/Tajikistan/vector.svg"
+    }, 
+    {
+        "num": 213, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Tanzania, United Republic of", 
+        "value": "/Tanzania, United Republic of/vector.svg"
+    }, 
+    {
+        "num": 214, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Thailand", 
+        "value": "/Thailand/vector.svg"
+    }, 
+    {
+        "num": 215, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Timor-Leste", 
+        "value": "/Timor-Leste/vector.svg"
+    }, 
+    {
+        "num": 216, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Togo", 
+        "value": "/Togo/vector.svg"
+    }, 
+    {
+        "num": 217, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Tokelau", 
+        "value": "/Tokelau/vector.svg"
+    }, 
+    {
+        "num": 218, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Tonga", 
+        "value": "/Tonga/vector.svg"
+    }, 
+    {
+        "num": 219, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Trinidad and Tobago", 
+        "value": "/Trinidad and Tobago/vector.svg"
+    }, 
+    {
+        "num": 220, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Tunisia", 
+        "value": "/Tunisia/vector.svg"
+    }, 
+    {
+        "num": 221, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Turkey", 
+        "value": "/Turkey/vector.svg"
+    }, 
+    {
+        "num": 222, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Turkmenistan", 
+        "value": "/Turkmenistan/vector.svg"
+    }, 
+    {
+        "num": 223, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Turks and Caicos Islands", 
+        "value": "/Turks and Caicos Islands/vector.svg"
+    }, 
+    {
+        "num": 224, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Tuvalu", 
+        "value": "/Tuvalu/vector.svg"
+    }, 
+    {
+        "num": 225, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Uganda", 
+        "value": "/Uganda/vector.svg"
+    }, 
+    {
+        "num": 226, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Ukraine", 
+        "value": "/Ukraine/vector.svg"
+    }, 
+    {
+        "num": 227, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "United Arab Emirates", 
+        "value": "/United Arab Emirates/vector.svg"
+    }, 
+    {
+        "num": 228, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "United Kingdom", 
+        "value": "/United Kingdom/vector.svg"
+    }, 
+    {
+        "num": 229, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "United States", 
+        "value": "/United States/vector.svg"
+    }, 
+    {
+        "num": 230, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "United States Minor Outlying Islands", 
+        "value": "/United States Minor Outlying Islands/vector.svg"
+    }, 
+    {
+        "num": 231, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Uruguay", 
+        "value": "/Uruguay/vector.svg"
+    }, 
+    {
+        "num": 232, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Uzbekistan", 
+        "value": "/Uzbekistan/vector.svg"
+    }, 
+    {
+        "num": 233, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Vanuatu", 
+        "value": "/Vanuatu/vector.svg"
+    }, 
+    {
+        "num": 234, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Venezuela", 
+        "value": "/Venezuela/vector.svg"
+    }, 
+    {
+        "num": 235, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Viet Nam", 
+        "value": "/Viet Nam/vector.svg"
+    }, 
+    {
+        "num": 236, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Virgin Islands, British", 
+        "value": "/Virgin Islands, British/vector.svg"
+    }, 
+    {
+        "num": 237, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Virgin Islands, U.S.", 
+        "value": "/Virgin Islands, U.S./vector.svg"
+    }, 
+    {
+        "num": 238, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Wallis and Futuna", 
+        "value": "/Wallis and Futuna/vector.svg"
+    }, 
+    {
+        "num": 239, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Western Sahara", 
+        "value": "/Western Sahara/vector.svg"
+    }, 
+    {
+        "num": 240, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Yemen", 
+        "value": "/Yemen/vector.svg"
+    }, 
+    {
+        "num": 241, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Zambia", 
+        "value": "/Zambia/vector.svg"
+    }, 
+    {
+        "num": 242, 
+        "stats": {
+            "population": 0, 
+            "trees": 0, 
+            "urban_area": 0
+        }, 
+        "text": "Zimbabwe", 
+        "value": "/Zimbabwe/vector.svg"
+    }
+]
