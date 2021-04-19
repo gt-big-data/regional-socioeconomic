@@ -9,7 +9,12 @@ class RawandaInfoPage extends Component {
     render() {
         return(
             <>
-                <p>Here is the page where Rawanda information should go</p>
+                <div className = "facts"> 
+                    <p>QUICK FACTS</p>
+                </div>
+                
+                <img src="stats.png" alt="not found" width="400" height="400"/>
+
             </>
         );
     }
