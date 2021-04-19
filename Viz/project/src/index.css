@@ -9,3 +9,27 @@
     background-color: rgb(0, 0, 0);
     color: #fff;
   }
+
+  .button1 {
+    position: absolute;
+    left: 100px;
+    top: 570px;
+  }
+
+  .button2 {
+    position: absolute;
+    left: 200px;
+    top: 570px;
+  }
+
+  .facts {
+    position: absolute;
+    left: 600px;
+    top: 200px;
+  }
+
+  .info {
+    position: absolute;
+    left: 300px;
+    top: 570px;
+  }
