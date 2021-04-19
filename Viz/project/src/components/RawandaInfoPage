@@ -1,4 +1,5 @@
-import React, {Component} from 'react'
+import React, {Component} from 'react';
+import index from '../index.css';
 
 class RawandaInfoPage extends Component {
 
@@ -11,9 +12,10 @@ class RawandaInfoPage extends Component {
             <>
                 <div className = "facts"> 
                     <p>QUICK FACTS</p>
+                    <img src="stats.png" alt="not found" width="400" height="400"/>
                 </div>
                 
-                <img src="stats.png" alt="not found" width="400" height="400"/>
+                
 
             </>
         );
