@@ -92,16 +92,23 @@ class DropDownClass extends Component {
                 />
                 <p> Current Country : {this.state.country_name}</p>
                 <img src={this.state.country_chosen.default} alt="not found" width="400" height="400"/>
-                <a href="#" onClick={this.Previous_Click}>
+                <div className = "button1"> 
+                    <a href="#" onClick={this.Previous_Click}>
                     Previous
-                </a>
-                <p>                </p>
-                <a href="#" onClick={this.Next_Click}>
-                    Next
-                </a>
+                    </a>
+                </div>
+
+                <div className = "button2"> 
+                    <a href="#" onClick={this.Next_Click}>
+                        Next
+                    </a>
+                </div>
+                
                 <Router>
                     <Link to="/RawandaInfoPage">
+                    <div className = "info"> 
                         More Information
+                        </div>
                     </Link>
                     <Switch>
                         <Route path="/RawandaInfoPage">
