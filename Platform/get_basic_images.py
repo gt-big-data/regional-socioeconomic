@@ -11,8 +11,10 @@ API_KEY = ''
 def search_request(query):
     params = {
         "q": query,
+        "tbm": "isch",
+        "ijn": 0,
         "api_key": API_KEY,
-        "tbm": "isch"
+        
     }
     search = GoogleSearch(params)
     results = search.get_dict()
